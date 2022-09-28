@@ -4277,9 +4277,7 @@ packages:
         - emacs-module
         - tasty-ant-xml
         - prettyprinter-combinators
-        - htoml-parse
-        - htoml-megaparsec
-        - composition-prelude
+        - toml-reader-parse
 
     "Eugene Smolanka <esmolanka@gmail.com> @esmolanka":
         - sexp-grammar
